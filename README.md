@@ -13,4 +13,4 @@ Essentials: https://www.curseforge.com/minecraft/mc-mods/essentials/files \
 Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap \
 Player Revive: https://www.curseforge.com/minecraft/mc-mods/playerrevive \
 Gravestone Mod: https://www.curseforge.com/minecraft/mc-mods/gravestone-mod \
-Structure Gel API: https://www.curseforge.com/minecraft/mc-mods/structure-gel-api \
+Structure Gel API: https://www.curseforge.com/minecraft/mc-mods/structure-gel-api
