@@ -18,4 +18,4 @@ Storage Drawers: https://www.curseforge.com/minecraft/mc-mods/storage-drawers \
 Infernal Expansion: https://www.curseforge.com/minecraft/mc-mods/infernal-expansion \
 XP Tome: https://www.curseforge.com/minecraft/mc-mods/xp-tome \
 MrCrayfish's Furniture Mod: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod \
-Entitled: https://www.curseforge.com/minecraft/mc-mods/entitled
+Entitled: https://www.minecrafteo.com/mrcrayfishs-furniture-mod-para-minecraft-1-16/
