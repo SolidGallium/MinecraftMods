@@ -17,5 +17,6 @@ Structure Gel API: https://www.curseforge.com/minecraft/mc-mods/structure-gel-ap
 Storage Drawers: https://www.curseforge.com/minecraft/mc-mods/storage-drawers \
 Infernal Expansion: https://www.curseforge.com/minecraft/mc-mods/infernal-expansion \
 XP Tome: https://www.curseforge.com/minecraft/mc-mods/xp-tome \
-MrCrayfish's Furniture Mod: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod \
-Entitled: https://www.minecrafteo.com/mrcrayfishs-furniture-mod-para-minecraft-1-16/
+MrCrayfish's Furniture Mod: https://www.minecrafteo.com/mrcrayfishs-furniture-mod-para-minecraft-1-16/ \
+Entitled: https://www.curseforge.com/minecraft/mc-mods/entitled \
+Cosmetic Armor Reworked: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
