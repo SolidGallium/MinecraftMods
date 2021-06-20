@@ -13,4 +13,8 @@ Essentials: https://www.curseforge.com/minecraft/mc-mods/essentials/files \
 Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap \
 Player Revive: https://www.curseforge.com/minecraft/mc-mods/playerrevive \
 Gravestone Mod: https://www.curseforge.com/minecraft/mc-mods/gravestone-mod \
-Structure Gel API: https://www.curseforge.com/minecraft/mc-mods/structure-gel-api
+Structure Gel API: https://www.curseforge.com/minecraft/mc-mods/structure-gel-api \
+Storage Drawers: https://www.curseforge.com/minecraft/mc-mods/storage-drawers \
+Infernal Expansion: https://www.curseforge.com/minecraft/mc-mods/infernal-expansion \
+XP Tome: https://www.curseforge.com/minecraft/mc-mods/xp-tome \
+MrCrayfish's Furniture Mod: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
