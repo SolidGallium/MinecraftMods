@@ -19,4 +19,5 @@ Infernal Expansion: https://www.curseforge.com/minecraft/mc-mods/infernal-expans
 XP Tome: https://www.curseforge.com/minecraft/mc-mods/xp-tome \
 MrCrayfish's Furniture Mod: https://www.minecrafteo.com/mrcrayfishs-furniture-mod-para-minecraft-1-16/ \
 Entitled: https://www.curseforge.com/minecraft/mc-mods/entitled \
-Cosmetic Armor Reworked: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+Cosmetic Armor Reworked: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked \
+Chatta Chisel: https://www.kikonutinomods.com/chatta-chisel-mod-para-minecraft-1-12-2/
